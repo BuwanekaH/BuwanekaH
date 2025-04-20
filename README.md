@@ -5,7 +5,6 @@
 Welcome to my GitHub! I’m a recent graduate in the Information Technology field with a specialization in Cybersecurity, and I’m passionate about securing systems, analyzing threats, and building resilient digital environments.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
