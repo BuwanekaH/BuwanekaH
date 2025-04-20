@@ -2,9 +2,7 @@
 # Hi, I'm Buwaneka
 <a href="https://www.linkedin.com/in/buwaneka-hettiarachchi/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my GitHub! I’m a recent graduate in the Information Technology field with a specialization in Cybersecurity, and I’m passionate about securing systems, analyzing threats, and building resilient digital environments.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
